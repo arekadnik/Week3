@@ -3,8 +3,8 @@ package com.week3.demo;
 
 import org.springframework.web.bind.annotation.*;
 
-@RestController
-@RequestMapping("/products")
+//@RestController
+//@RequestMapping("/products")
 public class ProductApi {
 
     /*
